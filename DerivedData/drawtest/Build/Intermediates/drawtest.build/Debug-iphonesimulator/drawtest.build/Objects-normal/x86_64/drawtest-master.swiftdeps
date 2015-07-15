@@ -1,0 +1,8 @@
+version: "Apple Swift version 2.0 (swiftlang-700.0.45 clang-700.0.57.2)"
+options: "73699587f4c11832c9d9f31774ddb87f"
+build_time: [490250476, 446896000]
+inputs: 
+	/Users/spacehomunculus/source/drawtest/drawtest/ScoreView.swift: [490248849, 0]
+	/Users/spacehomunculus/source/drawtest/drawtest/ScoreLayer.swift: [490250475, 0]
+	/Users/spacehomunculus/source/drawtest/drawtest/ViewController.swift: [490250222, 0]
+	/Users/spacehomunculus/source/drawtest/drawtest/AppDelegate.swift: [490248336, 0]
